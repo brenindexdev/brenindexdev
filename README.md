@@ -7,7 +7,7 @@ presentation in development...
 
 *   🌍  I'm based in Piracicaba, Brazil
 *   ✉️  You can contact me at [brenosilveiradomingues@gmail.com](mailto:brenosilveiradomingues@gmail.com)
-*   🧠  I'm learning PHP
+*   🧠  I'm learning Java
 *   🤝  I'm open to collaborating on any project where I gain experience and knowledge
 *   ⚡  I love games and front-end <3
 
