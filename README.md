@@ -1,5 +1,4 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=6206F7&repeat=false&width=435&lines=Hi!+I'm+Breno+Silveira+Domingues+%3A)" alt="Typing SVG" /></a>
-=========================================
 
 Junior Web Developer
 --------------------
