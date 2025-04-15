@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&size=26&duration=1300&pause=700&color=8C00FF&width=500&lines=Hi!+I'm+Breno+Silveira+Domingues;and+welcome+to+my+GitHub!" alt="Typing SVG" /></a>
 
-<h2>Junior Web Developer</h2>
+<h2>Junior High School Web Developer</h2>
 
 
 presentation in development...
@@ -12,7 +12,6 @@ presentation in development...
 *   ⚡  I love games and front-end <3
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=brenindexdev&label=My%20profile%20views&color=690eb4&style=flat" alt="brenindexdev" /> </p>
 
 <h3 align="left">Socials Media:</h3>
 <p align="left">
