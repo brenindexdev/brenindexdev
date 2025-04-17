@@ -4,7 +4,17 @@
 
 ###
 
-<div align="center">
+<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://profile-counter.glitch.me/brenindexdev/count.svg?"  />
+</div>
+
+###
+
+<div align="left">
   <a href="www.linkedin.com/in/brenindexdev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -25,12 +35,6 @@
   <a href="www.twitch.tv/itznaxxx" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/brenindexdev/count.svg?"  />
 </div>
 
 ###
