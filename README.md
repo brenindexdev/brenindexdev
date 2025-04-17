@@ -7,7 +7,7 @@
 <div align="center">
   <table>
     <tr>
-      <td align="left" width="33%">
+      <td align="center" width="33%">
         <img src="https://profile-counter.glitch.me/brenindexdev/count.svg?" />
       </td>
       <td align="center" width="33%">
