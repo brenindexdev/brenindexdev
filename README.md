@@ -4,9 +4,6 @@
 
 ###
 
-<div>
-  
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/brenindexdev/count.svg?"  />
 </div>
@@ -40,26 +37,18 @@
   </a>
   </div>
 </div>
-</div>
-
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">🙋‍♂️ About Me</h3>
 
 ###
-
-<br clear="both">
 
 <p align="left">I'm a young developer, and I have 6 years of experience in web development, with technical skills that allow me to create, optimize and revise systems and pages. As a programmer, I stand out for my attention to detail and proactivity, ensuring efficient, quality solutions.<br><br>🌍  I'm based in Piracicaba, Brazil<br>✉️  You can contact me at brenosilveiradomingues@gmail.com<br>🧠  I'm currently learning Java and improving in JavaScript<br>🤝  I'm open to collaborating on open-source projects, startups and innovative ideas!<br>⚡  Fun fact: I love gaming and exploring new front-end technologies ❤️</p>
 
-###
+<h1></h1>
 
-<br clear="both">
-
-###
-
-<h3 align="left"></> Languages</h3>
+<h3 align="left">👨‍💻 Languages</h3>
 
 ###
 
@@ -113,7 +102,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" height="40" alt="aftereffects logo"  />
 </div>
 
-###
+<h1></h1>
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brenindexdev&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1&custom_title=My%20Github%20interactions" height="120" alt="stats graph"  />
