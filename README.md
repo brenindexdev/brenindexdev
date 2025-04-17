@@ -1,6 +1,7 @@
 <br clear="both">
 
-<h1 align="center">Hey there! 👋 I'm Breno S. Domingues</h1>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&size=26&duration=1300&pause=1000&color=910BFF&center=true&vCenter=true&width=500&lines=Hi!+I'm+Breno+Silveira+Domingues;and+welcome+to+my+GitHub!" alt="Typing SVG" /></a>
+</div>
 
 ###
 
