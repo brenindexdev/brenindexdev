@@ -109,7 +109,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" height="40" alt="aftereffects logo"  />
 </div>
 
-###
+### </br> 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brenindexdev&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1&custom_title=My%20Github%20interactions" height="120" alt="stats graph"  />
