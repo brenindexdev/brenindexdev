@@ -13,7 +13,7 @@
       <td align="center" width="33%">
         <img height="200" src="https://i.imgflip.com/65efzo.gif" />
       </td>
-      <td align="right" width="33%">
+      <td align="center" width="33%">
         <div>
           <a href="www.linkedin.com/in/brenindexdev" target="_blank">
             <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
