@@ -79,8 +79,6 @@
 
 ###
 
-<br clear="both">
-
 ###
 
 <h3 align="center">🛠 Tools</h3>
