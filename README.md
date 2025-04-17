@@ -45,7 +45,7 @@
 
 ###
 
-<p align="left">I'm a young developer, and I have 6 years of experience in web development, with technical skills that allow me to create, optimize and revise systems and pages. As a programmer, I stand out for my attention to detail and proactivity, ensuring efficient, quality solutions.<br><br>🌍  I'm based in Piracicaba, Brazil<br>✉️  You can contact me at brenosilveiradomingues@gmail.com<br>🧠  I'm currently learning Java and improving in JavaScript<br>🤝  I'm open to collaborating on open-source projects, startups and innovative ideas!<br>⚡  Fun fact: I love gaming and exploring new front-end technologies ❤️</p>
+<p align="left">I'm a young developer, and I have 6 years of experience in web development, with technical skills that allow me to create, optimize and revise systems and pages. As a programmer, I stand out for my attention to detail and proactivity, ensuring efficient and quality solutions.<br><br>🌍  I'm based in Piracicaba, Brazil<br>✉️  You can contact me at brenosilveiradomingues@gmail.com<br>🧠  I'm currently learning Java and improving in JavaScript<br>🤝  I'm open to collaborating on open-source projects, startups and innovative ideas!<br>⚡  Fun fact: I love gaming and exploring new front-end technologies ❤️</p>
 
 <h1></h1>
 
