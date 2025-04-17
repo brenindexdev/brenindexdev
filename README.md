@@ -4,37 +4,45 @@
 
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://profile-counter.glitch.me/brenindexdev/count.svg?"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/brenindexdev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBpRcvMkSfjJQdZbPXFsNxrxMQpDDblXrRZNGwtFkkXGhBfxxqQVlsGQXKZJzMZlBMPffFC" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <a href="wa.me/5519998258512" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.instagram.com/brenin.index" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://www.youtube.com/@itznaxxx" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="www.twitch.tv/itznaxxx" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  </a>
+<div align="center">
+  <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+    <div style="flex: 1; text-align: left;">
+      <img src="https://profile-counter.glitch.me/brenindexdev/count.svg?" />
+    </div>
+    <div style="flex: 1; text-align: center;">
+      <img height="200" src="https://i.imgflip.com/65efzo.gif" />
+    </div>
+    <div style="flex: 1; text-align: right;">
+      <div align="right">
+        <a href="www.linkedin.com/in/brenindexdev" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+        </a>
+        <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBpRcvMkSfjJQdZbPXFsNxrxMQpDDblXrRZNGwtFkkXGhBfxxqQVlsGQXKZJzMZlBMPffFC" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+        </a>
+        <a href="https://dev.to/brenindexdev" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+        </a>
+        <a href="https://discord.com/users/yourusername" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+        </a>
+      </div>
+      <div align="right">
+        <a href="wa.me/5519998258512" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+        </a>
+        <a href="https://www.instagram.com/brenin.index" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+        </a>
+        <a href="https://www.youtube.com/@itznaxxx" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+        </a>
+        <a href="www.twitch.tv/itznaxxx" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+        </a>
+      </div>
+    </div>
+  </div>
 </div>
 
 ###
@@ -115,5 +123,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=brenindexdev&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1&custom_title=My%20Github%20interactions" height="120" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brenindexdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=midnight-purple&hide_border=true&order=2&custom_title=My%20most%20used%20languages" height="120" alt="languages graph"  />
 </div>
-
-###
