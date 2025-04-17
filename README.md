@@ -6,12 +6,6 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/brenindexdev/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
   <div class="col">
     <a href="https://www.linkedin.com/in/brenindexdev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
