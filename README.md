@@ -1,10 +1,10 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&size=26&duration=1300&pause=700&color=8C00FF&width=500&lines=Hi!+I'm+Breno+Silveira+Domingues;and+welcome+to+my+GitHub!" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=500&size=26&duration=1300&pause=700&color=8C00FF&width=500&lines=Hi!+I'm+Breno+Silveira+Domingues;and+welcome+to+my+GitHub!" alt="Typing SVG" /></a>
 
 <br clear="both">
 
 ###
 
-<img align="right" height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZkaW10MGJydmI0OHljcXFmOXdnYWV4aTAxcjJ4bTJ4b2J3dmFzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif"  />
+<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGZkaW10MGJydmI0OHljcXFmOXdnYWV4aTAxcjJ4bTJ4b2J3dmFzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif"  />
 
 ###
 
