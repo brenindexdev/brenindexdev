@@ -49,9 +49,11 @@
 
 <h1></h1>
 
-<h3 align="left">👨‍💻 Languages</h3>
+<h3 align="center">👨‍💻 Languages</h3>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
@@ -77,7 +79,11 @@
 
 ###
 
-<h3 align="left">🛠 Tools</h3>
+<br clear="both">
+
+###
+
+<h3 align="center">🛠 Tools</h3>
 
 ###
 
