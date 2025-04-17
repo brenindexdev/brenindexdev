@@ -57,8 +57,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/brenindexdev/brenindexdev/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <h3 align="left"></> Languages</h3>
