@@ -27,7 +27,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" style="position: relative; bottom: -4px;" /> About Me (and why you should hire me)
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" style="position: relative; bottom: -4px;" /> About Me
 
 I'm a **web developer** based in Piracicaba, Brazil, with a natural lean toward **frontend development** and a solid, growing foundation across the rest of the stack. Right now that means building professional systems in **C# and .NET/Blazor**, but I don't see myself as a one-framework developer — I'm still early enough in my career to stay curious and adapt to whatever a project or a team actually needs. My title says *Junior*, but my track record says otherwise: 6 years shaping web projects on my own, and a full year now putting that experience to work in a professional environment where uptime and data integrity aren't optional — they're the whole point.
 
@@ -139,11 +139,17 @@ Developing and maintaining web-based industrial monitoring systems (C#, .NET, Bl
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Bouncing%20Ball.png" alt="Man Bouncing Ball" width="25" height="25" style="position: relative; bottom: -4px;" /> More About Me
 
+When I'm not writing code, you'll probably find me exploring virtual worlds or staying active outside. I'm a passionate PC gamer who enjoys a bit of everything, though lately I've been spending most of my gaming time in open-world exploration, FPS, and sports titles. Off-screen, I love playing sports that keep me moving, with basketball being my current main pick on the court. Through it all, music is my constant companion — I'm rarely seen without headphones. To me, music is one of humanity's most versatile creations, capable of capturing every emotion, whether it's helping you unwind, making you feel deeply, or getting you up to dance.
+
+<br/>
+
 <div align="center">
   <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31m5r4whmiyfapb7x6owss2cegpq">
     <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31m5r4whmiyfapb7x6owss2cegpq" alt="Data Card for Spotify">
   </a>
 </div>
+
+<br/>
 
 <div align="center">
   <sub>Built with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Hot Beverage" width="25" height="25" style="position: relative; bottom: -4px;" /> and a lot of curiosity for web development — Piracicaba, Brazil 🇧🇷</sub>
