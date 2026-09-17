@@ -123,27 +123,26 @@ Developing and maintaining web-based industrial monitoring systems (C#, .NET, Bl
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" style="position: relative; bottom: -4px;" /> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brenindexdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1&custom_title=Breno's%20GitHub%20Stats" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenindexdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=midnight-purple&hide_border=true&order=2&custom_title=Most%20Used%20Languages" height="180" alt="languages graph" />
+  <img src="https://github-stats-extended.vercel.app/api?username=brenindexdev&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&theme=midnight-purple&bg_color=0d1117" height="180" alt="stats graph" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=brenindexdev&layout=compact&hide_title=true&hide_border=true&langs_count=8&theme=midnight-purple&bg_color=0d1117" height="180" alt="languages graph" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=brenindexdev&theme=midnight-purple&hide_border=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly&card_height=180&background=0D1117" alt="streak stats" /></a>
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brenindexdev&theme=midnight-purple&hide_border=true" height="180" alt="streak stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=brenindexdev&label=Profile%20Views&color=910BFF&style=for-the-badge" alt="profile views" />
-</div>
-
-<h1></h1>
 
 <!-- Contribution snake — powered by the platane/snk GitHub Action already configured in this repo -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/brenindexdev/brenindexdev/output/github-contribution-grid-snake.svg?palette=github-dark" alt="Snake animation" />
+</div>
+
+<br/><br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Bouncing%20Ball.png" alt="Man Bouncing Ball" width="25" height="25" style="position: relative; bottom: -4px;" /> More About Me
+
+<div align="center">
+  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=31m5r4whmiyfapb7x6owss2cegpq">
+    <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=31m5r4whmiyfapb7x6owss2cegpq" alt="Data Card for Spotify">
+  </a>
 </div>
 
 <div align="center">
