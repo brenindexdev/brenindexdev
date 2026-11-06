@@ -44,6 +44,8 @@ Sou um **desenvolvedor web** baseado em Piracicaba/SP, com uma inclinação natu
 
 O que eu trago para uma equipe vai além do código. Sou o desenvolvedor que lê os requisitos duas vezes antes de escrever a primeira linha, que mantém a calma quando os prazos apertam e que assume a responsabilidade de um problema em vez de esperar que me digam o que fazer. Me comunico de forma clara, faço as perguntas certas logo no início e gosto genuinamente da troca de ideias ao trabalhar *com* as pessoas, e não apenas para elas — o que é exatamente o que mantém os sistemas industriais e as equipes que os constroem funcionando perfeitamente.
 
+**IA no meu dia a dia:** uso ferramentas e agentes de IA — ChatGPT, Gemini, Copilot, Muse, OpenCode, DeepSeek, Groq, entre outros — para desenvolver e analisar software: acelerar tarefas repetitivas, revisar código e entender o que eu ainda não conheço. Já trabalhei com modelos como GPT, Gemini, DeepSeek e gpt-oss, sempre conferindo o resultado antes de usar: a IA sugere, eu decido. Tenho conhecimento intermediário em LLMs e agentes e estou me aprofundando no assunto, aprendendo a usá-la com critério.
+
 <br/>
 
 <div align="center">
@@ -117,7 +119,7 @@ Desenvolvimento e manutenção de sistemas de monitoramento industrial web (C#, 
 **Linguagens Adicionais**
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java" height="42" alt="additional languages" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java" height="42" alt="additional languages" />
 </div>
 
 <br/>
