@@ -44,6 +44,8 @@ I'm a **web developer** based in Piracicaba, Brazil, with a natural lean toward 
 
 What I bring to a team isn't just code. I'm the developer who reads the requirement twice before writing the first line, who stays calm when a deadline gets tight, and who takes ownership of a problem instead of waiting to be told what to do. I communicate clearly, I ask the right questions early, and I genuinely enjoy the back-and-forth of working *with* people, not just for them — which is exactly what keeps industrial systems, and the teams that build them, running smoothly.
 
+**AI in my daily work:** I use AI tools and agents — ChatGPT, Gemini, Copilot, Muse, OpenCode, DeepSeek, Groq, among others — to develop and analyze software: speeding up repetitive tasks, reviewing code, and understanding what I don't know yet. I've worked with models like GPT, Gemini, DeepSeek and gpt-oss, and I always check the result before using it: the AI suggests, I decide. I have intermediate knowledge of LLMs and agents and I'm deepening it, learning to use them with judgment.
+
 <br/>
 
 <div align="center">
@@ -117,7 +119,7 @@ Developing and maintaining web-based industrial monitoring systems (C#, .NET, Bl
 **Additional Languages**
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java" height="42" alt="additional languages" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java" height="42" alt="additional languages" />
 </div>
 
 <br/>
